@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/C#-3766AB?style=flat-square&logo=C Sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C Sharp-3766AB?style=flat-square&logo=C Sharp&logoColor=white"/>
 
 
 <!--
